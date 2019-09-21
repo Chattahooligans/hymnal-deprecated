@@ -15,7 +15,7 @@ export default function App() {
             }}
           >
             <Image
-              source={require('c:/users/galen/chattahooligans/hymnal-deprecated/assets/home-big-c-logo.png')}
+              source={require('./assets/home-big-c-logo.png')}
               style={{ height: 100, resizeMode: 'contain', marginTop: 20, marginBottom: 20 }}
               tintColor='#FFFFFF'
             />
