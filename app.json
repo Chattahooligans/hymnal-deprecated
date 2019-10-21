@@ -16,8 +16,17 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "android": {
+      "package": "com.thechattahooligans.app",
+      "icon": "./assets/big-c-icon-android.png",
+      "versionCode": 1,
+      "permissions": [],
+      "googleServicesFile": "./google-services.json"
+    },
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.thechattahooligans.app",
+      "supportsTablet": false,
+      "loadJSInBackgroundExperimental": true
     },
     "description": ""
   }
