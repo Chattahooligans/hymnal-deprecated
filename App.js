@@ -20,7 +20,7 @@ export default function App() {
               tintColor='#FFFFFF'
             />
       </View>
-      <Text style={{ color: '#002D56', fontSize: 18, padding: 10 }}>We're sorry for the inconvenience, but this version of Chattahooligan Hymnal has been deprecated.{"\n"}{"\n"}Please uninstall this app, then search for "Chattahooligan Hymnal" on Google Play or the App Store for the new and improved version!</Text>
+      <Text style={{ color: '#002D56', fontSize: 18, padding: 10 }}>This version of Chattahooligan Hymnal has been deprecated.{"\n"}{"\n"}We're sorry for the inconvenience, but take heart- the app is not going away! Please uninstall this version from your device, then search for "Chattahooligan Hymnal" on Google Play or the App Store to get the new hotness.{"\n"}{"\n"} - The Chattahooligans 💙</Text>
     </View>
   );
 }
